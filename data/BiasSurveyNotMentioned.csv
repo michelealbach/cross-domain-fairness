@@ -1,0 +1,26 @@
+Study ID,Completion Time (s),Recidivism-crimHis,Recidivism-substance,Recidivism-safety,Recidivism-education,Unemployment-age,Unemployment-gender,Unemployment-education,Unemployment-disability,Hospital-age,Hospital-gender,Hospital-residence,Hospital-hisMjH,Loan-income,Loan-age,Loan-marital,Loan-credit
+1,1209,somewhat fair,somewhat fair,unfair,somewhat unfair,somewhat unfair,somewhat unfair,neutral,very unfair,fair,unfair,somewhat unfair,fair,fair,neutral,somewhat unfair,fair
+2,204,very fair,fair,unfair,fair,somewhat fair,unfair,neutral,very fair,very fair,somewhat fair,somewhat fair,very fair,very fair,fair,neutral,very fair
+3,827,fair,fair,fair,fair,somewhat fair,somewhat fair,fair,unfair,fair,somewhat fair,neutral,somewhat fair,fair,somewhat fair,somewhat fair,very fair
+4,971,fair,very fair,somewhat fair,fair,fair,somewhat fair,very fair,neutral,somewhat fair,no answer,somewhat fair,fair,neutral,fair,somewhat fair,very fair
+5,996,somewhat fair,unfair,unfair,unfair,somewhat unfair,very unfair,unfair,unfair,fair,somewhat unfair,unfair,neutral,fair,somewhat unfair,unfair,fair
+6,683,very fair,very fair,fair,somewhat fair,somewhat fair,very unfair,very unfair,somewhat fair,fair,very unfair,unfair,fair,fair,somewhat fair,very unfair,very fair
+7,1207,neutral,very unfair,very unfair,very unfair,very unfair,neutral,somewhat fair,very fair,somewhat unfair,very unfair,very unfair,somewhat fair,fair,very unfair,very unfair,somewhat fair
+8,228,very fair,very fair,very fair,neutral,very unfair,very unfair,very unfair,very fair,very fair,neutral,neutral,very fair,very fair,very unfair,very unfair,very fair
+9,1007,very fair,fair,somewhat unfair,fair,fair,somewhat fair,unfair,very fair,fair,very unfair,very unfair,very fair,very fair,somewhat fair,somewhat fair,very fair
+10,976,neutral,neutral,somewhat fair,neutral,somewhat fair,neutral,neutral,somewhat fair,neutral,somewhat unfair,neutral,somewhat unfair,neutral,somewhat fair,neutral,neutral
+11,646,very fair,fair,somewhat fair,neutral,unfair,unfair,fair,fair,fair,fair,fair,very fair,very fair,very fair,very fair,very fair
+12,790,fair,somewhat fair,very unfair,very unfair,very unfair,very unfair,very unfair,very unfair,fair,fair,somewhat fair,very fair,fair,somewhat fair,fair,fair
+13,801,very fair,fair,somewhat unfair,unfair,somewhat fair,very unfair,somewhat unfair,somewhat fair,somewhat fair,unfair,very unfair,fair,very fair,somewhat unfair,unfair,very fair
+14,274,fair,unfair,unfair,somewhat unfair,unfair,very unfair,very unfair,somewhat unfair,somewhat fair,neutral,somewhat unfair,very fair,very fair,unfair,unfair,fair
+15,255,very fair,neutral,unfair,somewhat unfair,neutral,very unfair,somewhat fair,somewhat fair,somewhat fair,somewhat fair,neutral,somewhat fair,very fair,neutral,neutral,very fair
+16,218,very fair,somewhat unfair,unfair,unfair,fair,unfair,very fair,very fair,very fair,fair,neutral,very fair,very fair,unfair,very unfair,very fair
+17,433,very fair,fair,somewhat fair,unfair,unfair,very unfair,somewhat fair,somewhat fair,somewhat unfair,very unfair,somewhat unfair,very fair,very fair,unfair,very unfair,very fair
+18,623,fair,somewhat unfair,very unfair,somewhat unfair,neutral,very unfair,very unfair,very unfair,unfair,unfair,very unfair,fair,fair,unfair,very unfair,very fair
+19,1053,fair,somewhat fair,somewhat unfair,somewhat unfair,somewhat unfair,somewhat unfair,somewhat fair,unfair,somewhat fair,neutral,somewhat unfair,somewhat fair,somewhat fair,unfair,unfair,fair
+20,235,somewhat fair,unfair,very unfair,somewhat unfair,very unfair,very unfair,unfair,fair,somewhat fair,neutral,unfair,fair,fair,unfair,somewhat unfair,fair
+21,569,very fair,fair,neutral,unfair,somewhat unfair,somewhat unfair,somewhat fair,neutral,fair,unfair,somewhat unfair,very fair,very fair,somewhat fair,somewhat unfair,very fair
+22,1581,very fair,fair,somewhat fair,somewhat fair,neutral,somewhat unfair,fair,neutral,very fair,neutral,neutral,very fair,very fair,somewhat fair,neutral,very fair
+23,1124,unfair,somewhat unfair,somewhat unfair,unfair,somewhat fair,neutral,fair,somewhat unfair,very fair,fair,somewhat fair,fair,very fair,fair,neutral,fair
+24,521,neutral,very unfair,unfair,very unfair,very unfair,very unfair,very unfair,very unfair,somewhat fair,very unfair,very unfair,fair,fair,very unfair,very unfair,unfair
+25,224,very fair,fair,unfair,neutral,fair,very unfair,very unfair,very fair,fair,very unfair,very unfair,very fair,very fair,fair,unfair,very fair

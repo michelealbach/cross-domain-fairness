@@ -1,6 +1,6 @@
 # Cross Domain Fairness
 # Michele Albach
-# This file performs 1000 50/50 train test splits on the data from a particular domain from the second survey with interaction variables
+# This file performs 1000 50/50 train test splits on the data from a particular domain from any of the three main surveys depending on commented code with interaction variables
 
 import csv
 import numpy as np
@@ -11,26 +11,32 @@ from scipy import stats
 
 def load(domain,props):
     file = open("../data/SecondSurvey"+domain+".csv",'r')
+#    file = open("../data/Accuracy"+domain+".csv",'r')
+#    file = open("../data/NoRelevance"+domain+".csv",'r')
     data = list(csv.reader(file))
     file.close()
 
     X = []
     Y = []
+
+    f = 8 # Number of features (7 for NoRel 8 for Second or Accuracy)
+    f=f+1
+    
     for i in range(1,len(data)): # For every respondent
-        for k in range(int((len(data[0])-15)/9)): # For every feature
+        for k in range(int((len(data[0])-15)/f)): # For every feature
             skip=False
             # append a 1 to Y if rated fair or a 0 if rated unfair
-            if data[i][15+k*9] == "Very Fair":
+            if data[i][15+k*f] == "Very Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Fair":
+            elif data[i][15+k*f] == "Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Somewhat Fair":
+            elif data[i][15+k*f] == "Somewhat Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Somewhat Unfair":
+            elif data[i][15+k*f] == "Somewhat Unfair":
                 Y.append(0)
-            elif data[i][15+k*9] == "Unfair":
+            elif data[i][15+k*f] == "Unfair":
                 Y.append(0)
-            elif data[i][15+k*9] == "Very Unfair":
+            elif data[i][15+k*f] == "Very Unfair":
                 Y.append(0) # rated neutral or question skipped
             else:
                 skip=True
@@ -42,17 +48,17 @@ def load(domain,props):
                 if skip==True:
                     break
                 # Append a -3..3 for Strongly Disagree..Strongly Agree
-                if data[i][16+k*9+j] == "Strongly Disagree":
+                if data[i][16+k*f+j] == "Strongly Disagree":
                     x.append(-3)
-                elif data[i][16+k*9+j] == "Disagree":
+                elif data[i][16+k*f+j] == "Disagree":
                     x.append(-2)
-                elif data[i][16+k*9+j] == "Somewhat Disagree":
+                elif data[i][16+k*f+j] == "Somewhat Disagree":
                     x.append(-1)
-                elif data[i][16+k*9+j] == "Somewhat Agree":
+                elif data[i][16+k*f+j] == "Somewhat Agree":
                     x.append(1)
-                elif data[i][16+k*9+j] == "Agree":
+                elif data[i][16+k*f+j] == "Agree":
                     x.append(2)
-                elif data[i][16+k*9+j] == "Strongly Agree":
+                elif data[i][16+k*f+j] == "Strongly Agree":
                     x.append(3)
                 else: # rated neutral or question skipped
                     x.append(0)
@@ -107,7 +113,7 @@ def trainandpredict(X,Y):
 
 def WithinDomainInteraction(domain,props):
     # 'domain' should be 'Bail', 'Unem', 'CPS', 'Hos', 'Loan', or 'Ins'
-    # 'props' should be a list of the integers 0..7 with any property that should be skipped as an 'S' instead
+    # 'props' should be a list of the integers 0..7 (0..6 for NoRel) with any property that should be skipped as an 'S' instead
     [X,Y] = load(domain,props)
     accs = []
     for test in range(1000):
@@ -151,3 +157,4 @@ def WithinDomainInteraction(domain,props):
     return row
 
 #print(WithinDomainInteraction("Ins",[0,1,2,3,4,5,'S',7]))
+#print(WithinDomainInteraction("Ins",[0,1,2,3,4,5,'S']))

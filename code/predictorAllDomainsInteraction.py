@@ -1,6 +1,6 @@
 # Cross Domain Fairness
 # Michele Albach
-# This file performs 1000 50/50 train test splits on all data from the second survey with interaction variables
+# This file performs 1000 50/50 train test splits on all data from any of the three main surveys depending on commented code with interaction variables
 
 import csv
 import numpy as np
@@ -11,21 +11,33 @@ from scipy import stats
 
 def load(props):
     file = open("../data/SecondSurveyBail.csv",'r')
+#    file = open("../data/AccuracyBail.csv",'r')
+#    file = open("../data/NoRelevanceBail.csv",'r')
     recdata = list(csv.reader(file))
     file.close()
     file = open("../data/SecondSurveyUnem.csv",'r')
+#    file = open("../data/AccuracyUnem.csv",'r')
+#    file = open("../data/NoRelevanceUnem.csv",'r')
     unemdata = list(csv.reader(file))
     file.close()
     file = open("../data/SecondSurveyCPS.csv",'r')
+#    file = open("../data/AccuracyCPS.csv",'r')
+#    file = open("../data/NoRelevanceCPS.csv",'r')
     cpsdata = list(csv.reader(file))
     file.close()
     file = open("../data/SecondSurveyHos.csv",'r')
+#    file = open("../data/AccuracyHos.csv",'r')
+#    file = open("../data/NoRelevanceHos.csv",'r')
     hosdata = list(csv.reader(file))
     file.close()
     file = open("../data/SecondSurveyLoan.csv",'r')
+#    file = open("../data/AccuracyLoan.csv",'r')
+#    file = open("../data/NoRelevanceLoan.csv",'r')
     loandata = list(csv.reader(file))
     file.close()
     file = open("../data/SecondSurveyIns.csv",'r')
+#    file = open("../data/AccuracyIns.csv",'r')
+#    file = open("../data/NoRelevanceIns.csv",'r')
     insdata = list(csv.reader(file))
     file.close()
 
@@ -33,25 +45,29 @@ def load(props):
 
     X = []
     Y = []
+
+    f = 8 # Number of features (7 for NoRel 8 for Second or Accuracy)
+    f=f+1
+
     for i in range(len(data)): # For every respondent
-        for k in range(int((len(data[0])-15)/9)): # For every feature
+        for k in range(int((len(data[0])-15)/f)): # For every feature
             try:
-                ignore = data[i][15+k*9]
+                ignore = data[i][15+k*f]
             except:
                 continue
             skip=False
             # append a 1 to Y if rated fair or a 0 if rated unfair
-            if data[i][15+k*9] == "Very Fair":
+            if data[i][15+k*f] == "Very Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Fair":
+            elif data[i][15+k*f] == "Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Somewhat Fair":
+            elif data[i][15+k*f] == "Somewhat Fair":
                 Y.append(1)
-            elif data[i][15+k*9] == "Somewhat Unfair":
+            elif data[i][15+k*f] == "Somewhat Unfair":
                 Y.append(0)
-            elif data[i][15+k*9] == "Unfair":
+            elif data[i][15+k*f] == "Unfair":
                 Y.append(0)
-            elif data[i][15+k*9] == "Very Unfair":
+            elif data[i][15+k*f] == "Very Unfair":
                 Y.append(0)
             else: # rated as neutral or question skipped
                 skip=True
@@ -63,17 +79,17 @@ def load(props):
                 if skip==True:
                     break
                 # Append a -3..3 for Strongly Disagree..Strongly Agree
-                if data[i][16+k*9+j] == "Strongly Disagree":
+                if data[i][16+k*f+j] == "Strongly Disagree":
                     x.append(-3)
-                elif data[i][16+k*9+j] == "Disagree":
+                elif data[i][16+k*f+j] == "Disagree":
                     x.append(-2)
-                elif data[i][16+k*9+j] == "Somewhat Disagree":
+                elif data[i][16+k*f+j] == "Somewhat Disagree":
                     x.append(-1)
-                elif data[i][16+k*9+j] == "Somewhat Agree":
+                elif data[i][16+k*f+j] == "Somewhat Agree":
                     x.append(1)
-                elif data[i][16+k*9+j] == "Agree":
+                elif data[i][16+k*f+j] == "Agree":
                     x.append(2)
-                elif data[i][16+k*9+j] == "Strongly Agree":
+                elif data[i][16+k*f+j] == "Strongly Agree":
                     x.append(3)
                 else: # rated neutral or question skipped
                     x.append(0)
@@ -127,7 +143,7 @@ def trainandpredict(X,Y):
     return accuracy_score(Y_test,Y_pred),roc_auc_score(Y_test,Y_pred),model_w.coef_[0]
 
 def AllDomainsInteraction(props):
-    # 'props' should be a list of the integers 0..7 with any property that should be skipped as an 'S' instead
+    # 'props' should be a list of the integers 0..7 (0..6 for NoRel) with any property that should be skipped as an 'S' instead
     [X,Y] = load(props)
     accs = []
     # Complete 1000 train/test splits
@@ -172,3 +188,4 @@ def AllDomainsInteraction(props):
     return row
 
 #print(AllDomainsInteraction([0,1,2,3,4,5,'S',7]))
+#print(AllDomainsInteraction([0,1,2,3,4,5,'S']))

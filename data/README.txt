@@ -1,4 +1,4 @@
-Bias Survey Results:
+Framing Survey Results:
 Completed Nov 2019
 
 Respondents were asked to rate the fairness of four hand-picked features from the bail, unemployment, hospital, and loan domains. The fairness of each feature is rated as either 'Very Unfair', 'Unfair', 'Somewhat Unfair', 'Neutral', 'Somewhat Fair', 'Fair', or 'Very Fair'.
@@ -7,7 +7,7 @@ Mentioned - the terms 'Machine Learning Computer Program' were explicitly mentio
 NotMentioned - No mention of machine learning or computers is made and the question is framed as if humans are making the decisions.
 
 
-First Survey Results:
+Nec/Suf Survey Results:
 Completed Jan-Feb 2020
 
 Respondents were given the description for their domain, and then were asked to rate the fairness of each feature and explain why by checking any of the eight properties or filling in their own.
@@ -19,7 +19,7 @@ Question Order Version - Which one of two random feature orders they were assign
 The fairness of each feature is rated as either 'Very Unfair', 'Unfair', 'Somewhat Unfair', 'Neutral', 'Somewhat Fair', 'Fair', or 'Very Fair'. Each property for each feature is labelled as 'true' if it was checked as a fairness explanation or 'false' if it was not checked. The 'Other' box for each feature was a blank text box that the responent could optionally fill in.
 
 
-Second Survey Results:
+Main Survey Results:
 Completed March-May 2020
 
 Respondents were given the description for their domain, asked to rate the fairness of each feature, and asked to rate how much they agree that the features hold each property.

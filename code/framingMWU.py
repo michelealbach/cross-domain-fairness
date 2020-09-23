@@ -1,8 +1,12 @@
+# Cross Domain Fairness
+# Michele Albach
+# This file performs a Mann-Whitney U test to compare results between the survey that explicitly mentioned a "machine learning computer program" and that didn't
+
 from scipy import stats
 import csv
 
-fileV1 = open('../data/BiasSurveyNotMentioned.csv', 'r')
-fileV2 = open('../data/BiasSurveyMentioned.csv', 'r')
+fileV1 = open('../data/FramingSurveyNotMentioned.csv', 'r')
+fileV2 = open('../data/FramingSurveyMentioned.csv', 'r')
 dataV1 = csv.reader(fileV1)
 dataV2 = csv.reader(fileV2)
 resultsV1 = list(dataV1)
@@ -13,9 +17,10 @@ fileV2.close()
 t_values = ['t-value']
 p_values = ['p-value']
 
-for feature in range(16):
+for feature in range(16): # For all 16 features asked about in this survey
     v1responses = []
     v2responses = []
+    # Count the numbers of responses in each file
     for result in resultsV1:
         if result[0] == 'Study ID':
             continue
@@ -50,15 +55,17 @@ for feature in range(16):
             v2responses.append(6)
         if result[2+feature] == 'very fair':
             v2responses.append(7)
-    
+
+    # Perform MWU
     values = stats.mannwhitneyu(v1responses, v2responses)
     t_values.append(values[0])
     p_values.append(values[1])
 
-top_row = ['Value','Recidivism-crimHis','Recidivism-substance','Recidivism-safety','Recidivism-education','Unemployment-age','Unemployment-gender','Unemployment-education','Unemployment-disability','Hospital-age','Hospital-gender','Hospital-residence','Hospital-hisMjH','Loan-income','Loan-age','Loan-marital','Loan-credit']#,'Education Rec vs Un V1', 'Education Rec vs Un V2', 'Gender Un vs Hos V1', 'Gender Un vs Hos V2', 'Age Un vs Hos V1', 'Age Un vs Hos V2', 'Age Un vs Loan V1', 'Age Un vs Loan V2', 'Age Hos vs Loan V1', 'Age Hos vs Loan V2']
+top_row = ['Value','Recidivism-crimHis','Recidivism-substance','Recidivism-safety','Recidivism-education','Unemployment-age','Unemployment-gender','Unemployment-education','Unemployment-disability','Hospital-age','Hospital-gender','Hospital-residence','Hospital-hisMjH','Loan-income','Loan-age','Loan-marital','Loan-credit']
 
 b_row = ["Bonferroni Corrected"]
 
+# Apply the Bonferroni correction by multiplying the p-values by the 16 tests
 for p in p_values:
     if p=='p-value':
         continue

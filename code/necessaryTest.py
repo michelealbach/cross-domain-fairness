@@ -1,7 +1,11 @@
+# Cross Domain Fairness
+# Michele Albach
+# This file determines that all eight properties are necessary by counting the percentage of respondents who selected each property at least once in their answers
+
 import csv
 
 def nec(domain):
-    mainfile = open('../data/FirstSurvey'+domain+'.csv','r')
+    mainfile = open('../data/NecSufSurvey'+domain+'.csv','r')
     maindata = csv.reader(mainfile)
     mainresults=list(maindata)
     mainfile.close()
@@ -15,6 +19,7 @@ def nec(domain):
     causesDisparityIndx = []
     causedByGroupIndx = []
 
+    # For each property, append the index of all users that checked it
     for i in range(len(mainresults[0])):
         if "Reliability" in mainresults[0][i]:
             reliabilityIndx.append(i)
@@ -43,6 +48,7 @@ def nec(domain):
     causesDisparity = 0
     causedByGroup = 0
 
+    # Count the respondents that checked each property at least once
     for result in mainresults:
         for i in reliabilityIndx:
             if result[i]=='true':
@@ -78,6 +84,7 @@ def nec(domain):
                 break
 
     row = [domain]
+    # Append percentages
     row.append(relevance/(len(mainresults)-1))
     row.append(causesOutcome/(len(mainresults)-1))
     row.append(reliability/(len(mainresults)-1))
@@ -97,14 +104,3 @@ new_file = open('../results/Necessity.csv','w')
 write = csv.writer(new_file)
 write.writerows(rows)
 new_file.close()
-
-#print("Percentage of respondents who used each property atleast once:")
-#print("reliability " + str(reliability/(len(mainresults)-1)))
-#print("relevance " + str(relevance/(len(mainresults)-1)))
-#print("privacy " + str(privacy/(len(mainresults)-1)))
-#print("volitionality " + str(volitionality/(len(mainresults)-1)))
-#print("causesOutcome " + str(causesOutcome/(len(mainresults)-1)))
-#print("causesCycle " + str(causesCycle/(len(mainresults)-1)))
-#print("causesDisparity " + str(causesDisparity/(len(mainresults)-1)))
-#print("causedByGroup " + str(causedByGroup/(len(mainresults)-1)))
-

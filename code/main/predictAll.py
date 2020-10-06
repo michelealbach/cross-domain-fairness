@@ -47,7 +47,7 @@ for i in range(len(domains)):
     smallrows.append(row)
 smallrows.append(["All",rows[1][1],rows[1][2],"NA"])
     
-file = open("../../results/MainAccuracyTable.csv",'w')
+file = open("../../results/Table1.csv",'w')
 write = csv.writer(file)
 write.writerows(smallrows)
 file.close()

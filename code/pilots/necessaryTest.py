@@ -5,7 +5,7 @@
 import csv
 
 def nec(domain):
-    mainfile = open('../data/NecSufSurvey'+domain+'.csv','r')
+    mainfile = open('../../data/NecSufSurvey'+domain+'.csv','r')
     maindata = csv.reader(mainfile)
     mainresults=list(maindata)
     mainfile.close()
@@ -100,7 +100,7 @@ top_row = ["Percentage of respondents who checked the property at least once","R
 
 rows = [top_row,nec("Bail"),nec("CPS"),nec("Hos"),nec("Ins"),nec("Loan"),nec("Unem")]
 
-new_file = open('../results/Necessity.csv','w')
+new_file = open('../../results/Necessity.csv','w')
 write = csv.writer(new_file)
 write.writerows(rows)
 new_file.close()

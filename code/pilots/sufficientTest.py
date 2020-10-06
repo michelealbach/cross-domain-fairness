@@ -5,7 +5,7 @@
 import csv
 
 def suf(domain):
-    mainfile = open('../data/NecSufSurvey'+domain+'.csv','r')
+    mainfile = open('../../data/NecSufSurvey'+domain+'.csv','r')
     maindata = csv.reader(mainfile)
     mainresults=list(maindata)
     mainfile.close()
@@ -39,7 +39,7 @@ top_row = ["Domain","Percentage of respondents who filled out the 'other' option
 
 rows = [top_row,suf("Bail"),suf("CPS"),suf("Hos"),suf("Ins"),suf("Loan"),suf("Unem")]
 
-new_file = open('../results/Sufficiency.csv','w')
+new_file = open('../../results/Sufficiency.csv','w')
 write = csv.writer(new_file)
 write.writerows(rows)
 new_file.close()

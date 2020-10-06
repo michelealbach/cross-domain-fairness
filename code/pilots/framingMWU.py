@@ -5,8 +5,8 @@
 from scipy import stats
 import csv
 
-fileV1 = open('../data/FramingSurveyNotMentioned.csv', 'r')
-fileV2 = open('../data/FramingSurveyMentioned.csv', 'r')
+fileV1 = open('../../data/FramingSurveyNotMentioned.csv', 'r')
+fileV2 = open('../../data/FramingSurveyMentioned.csv', 'r')
 dataV1 = csv.reader(fileV1)
 dataV2 = csv.reader(fileV2)
 resultsV1 = list(dataV1)
@@ -73,7 +73,7 @@ for p in p_values:
 
 rows = [top_row,t_values,p_values,b_row]
 
-new_file = open('../results/FramingMWU.csv', 'w')
+new_file = open('../../results/FramingMWU.csv', 'w')
 write = csv.writer(new_file)
 write.writerows(rows)
 new_file.close()

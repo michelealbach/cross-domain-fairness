@@ -29,10 +29,10 @@ Question Order Version - Whether the respondent was randomly assigned to be aske
 
 The fairness of each feature is rated as either 'Very Unfair', 'Unfair', 'Somewhat Unfair', 'Neutral', 'Somewhat Fair', 'Fair', or 'Very Fair'. Each property for each feature is labelled as either 'Strongly Disagree', 'Disagree', 'Somewhat Disagree', 'Neutral', 'Somewhat Agree', 'Agree', or 'Strongly Agree'.
 
-Accuracy and No Relevance Survey Results:
+Accuracy (aka 'Replaced') and No Relevance (aka 'Removed') Survey Results:
 Completed May-June 2020
 
-Identical to the Second survey, however the Accuracy survey replaced the feature 'Relevance' with 'Accuracy' and the No Relevance survey completely eliminated 'Relevance' as an option.
+Identical to the Second survey, however the Accuracy survey replaced the feature 'Relevance' with 'Accuracy' and the No Relevance survey completely removed 'Relevance' as an option.
 
 
 See survey folder for exact survey wordings

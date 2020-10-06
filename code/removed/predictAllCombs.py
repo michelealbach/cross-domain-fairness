@@ -20,15 +20,15 @@ for i in range(7):
     props[i]=i
     rows.append(AllDomains(props))
 props = [0,1,2,3,4,5,6]
-rows.append(WithinDomain("Rec",props))
+rows.append(WithinDomain("Bail",props))
 for i in range(7):
     props=[0,1,2,3,4,5,6]
     props[i] = 'S'
-    rows.append(WithinDomain("Rec",props))
+    rows.append(WithinDomain("Bail",props))
 for i in range(7):
     props=['S','S','S','S','S','S','S']
     props[i]=i
-    rows.append(WithinDomain("Rec",props))
+    rows.append(WithinDomain("Bail",props))
 props = [0,1,2,3,4,5,6]
 rows.append(WithinDomain("Unem",props))
 for i in range(7):

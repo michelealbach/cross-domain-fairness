@@ -1,6 +1,6 @@
 # Cross Domain Fairness
 # Michele Albach
-# This file performs 1000 50/50 train test splits on data from our 'replaced' survey (that asked about accuracy instead of relevance) by training in one domain and testing in another
+# This file performs one test on data from our 'replaced' survey (that asked about accuracy instead of relevance) by training in one domain and testing in another
 
 import csv
 import numpy as np

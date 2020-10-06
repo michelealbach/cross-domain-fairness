@@ -32,7 +32,7 @@ The fairness of each feature is rated as either 'Very Unfair', 'Unfair', 'Somewh
 Accuracy (aka 'Replaced') and No Relevance (aka 'Removed') Survey Results:
 Completed May-June 2020
 
-Identical to the Second survey, however the Accuracy survey replaced the feature 'Relevance' with 'Accuracy' and the No Relevance survey completely removed 'Relevance' as an option.
+Identical to the main survey, however the Accuracy survey replaced the feature 'Relevance' with 'Accuracy' and the No Relevance survey completely removed 'Relevance' as an option.
 
 
-See survey folder for exact survey wordings
+See survey folder for exact survey wordings.

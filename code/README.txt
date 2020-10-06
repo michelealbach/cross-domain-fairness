@@ -1,4 +1,4 @@
-To generate all results, run:
+To generate all results (in results folder), run:
 pilot/necessaryTest.py
 pilot/sufficientTest.py
 pilot/framingMWU.py

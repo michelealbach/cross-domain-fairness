@@ -12,11 +12,13 @@ removed/predictAll.py
 removed/predictAllCombs.py
 makeWeightsFigure.py
 makeAccuraciesFigure.py
+countDemographics.py
 
 Code Descriptions:
 
 makeWeightsFigure.py - makes Figure 1
 makeAccuraciesFigure.py - makes Figure 2
+countDemographics.py - counts the number of respondents from each questioned demographic group
 
 pilots:
 Performs all pilot study analyses

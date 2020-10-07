@@ -13,16 +13,17 @@ MainCombsAccuraciesAndWeights.csv - Presents the accuracies and errors when pred
 MainAllCombsWOAccuraciesAndWeights.csv - Presents the accuracies and errors for every combination of predictive properties excluding relevance to show that relevance alone performs better than them all in every domain (and all pooled).
 
 Replaced with accuracy survey results:
-ReplacedAccuraciesAndWeights.csv - Identical to MainAccuraciesAndWeights.csv but using 'replaced' survey results
-ReplacedCombsAccuraciesAndWeights.csv - Identical to MainCombsAccuraciesAndWeights.csv but using 'replaced' survey results
-ReplacedAllCombsWOAccuraciesAndWeights.csv - Identical to MainAllCombsWOAccuraciesAndWeights.csv but using 'replaced' survey results
+ReplacedAccuraciesAndWeights.csv - Identical to MainAccuraciesAndWeights.csv but using 'replaced' survey results.
+ReplacedCombsAccuraciesAndWeights.csv - Identical to MainCombsAccuraciesAndWeights.csv but using 'replaced' survey results.
+ReplacedAllCombsWOAccuraciesAndWeights.csv - Identical to MainAllCombsWOAccuraciesAndWeights.csv but using 'replaced' survey results.
 
 Removed relevance survey results:
-RemovedAccuraciesAndWeights.csv - Identical to MainAccuraciesAndWeights.csv but using 'removed' survey results
-RemovedCombsAccuraciesAndWeights.csv - Identical to MainCombsAccuraciesAndWeights.csv but using 'removed' survey results
+RemovedAccuraciesAndWeights.csv - Identical to MainAccuraciesAndWeights.csv but using 'removed' survey results.
+RemovedCombsAccuraciesAndWeights.csv - Identical to MainCombsAccuraciesAndWeights.csv but using 'removed' survey results.
 
 Table and figures as in paper:
 Table1.csv - Presents the accuracies and errors for the pooled, within domain, and cross domain predictors. Cross domain accuracies are averages from training or testing over each of the other five domains.
-Figure1.pdf - Presents and compares the weights for each property by domain for every survey batch
-Figure2.pdf - Presents and compares accuracy levels achieved by various predictors
+Figure1.pdf - Presents and compares the weights for each property by domain for every survey batch.
+Figure2.pdf - Presents and compares accuracy levels achieved by various predictors.
 
+DemoCounts - Presents the number of respondents from each questioned demographic group (by assigned domain) that answered our three primary surveys.

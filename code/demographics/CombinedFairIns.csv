@@ -1,0 +1,274 @@
+Study ID,Completion Time (s),Respondent Age,Respondent Education,Respondent Gender,Respondent Gender Other,Respondent Income,Aboriginal,Asian,Black,Caucasian,Hispanic,Ethnicity Other,Domain,Question Order Version,Age,Gender,Marital and Family,Employment,Credit,Education,Residence,History of Health
+551,860,30-39,Associate or Diploma,Male,,<25000,false,false,false,true,false,,ins,fairness first,Very Fair,Somewhat Unfair,Somewhat Fair,Fair,Somewhat Fair,Fair,Somewhat Fair,Fair
+552,654,30-39,Bachelor,Female,,<25000,false,true,false,false,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Fair,Unfair,Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair
+553,905,30-39,Bachelor,Male,,<25000,false,false,true,false,false,,ins,properties first,Very Unfair,Very Unfair,Somewhat Fair,Unfair,Very Fair,Very Unfair,Somewhat Fair,Fair
+554,762,30-39,Bachelor,Male,,25000-50000,false,false,true,false,false,,ins,fairness first,Fair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+555,2551,30-39,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Unfair
+556,521,50-59,High School,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Somewhat Fair
+557,1851,30-39,High School,Female,,<25000,false,false,false,true,true,,ins,fairness first,Somewhat Unfair,Very Unfair,Very Unfair,Very Unfair,Unfair,Very Unfair,Neutral,Somewhat Fair
+558,497,30-39,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Very Unfair,Very Unfair,Unfair,Very Fair,Very Fair,Fair,Very Unfair,Fair
+559,1248,30-39,Bachelor,Male,,50000-75000,false,false,false,true,true,,ins,properties first,Fair,Somewhat Unfair,Somewhat Fair,Fair,Very Fair,Fair,Somewhat Fair,Fair
+560,778,30-39,Graduate,Female,,25000-50000,false,false,true,true,false,,ins,properties first,Unfair,Unfair,Unfair,Somewhat Fair,Neutral,Neutral,Very Unfair,Very Unfair
+928,320,18-29,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Neutral,Fair,Very Fair,Fair,Neutral,Very Fair,Fair
+929,442,40-49,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Fair,Unfair,Unfair,Very Unfair,Unfair,Somewhat Fair,Somewhat Unfair
+930,337,30-39,Bachelor,Male,,<25000,false,true,false,false,false,,ins,properties first,Unfair,Neutral,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair,Somewhat Fair,Somewhat Fair
+931,609,40-49,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Neutral,Very Unfair,Very Unfair,Somewhat Fair,Somewhat Unfair,Very Unfair,Fair,Very Unfair
+932,448,40-49,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Very Unfair,Unfair,Very Unfair,Unfair,Very Unfair,Fair,Somewhat Fair
+933,460,30-39,Graduate,Male,,>100000,false,false,false,true,false,,ins,properties first,Fair,Unfair,Neutral,Unfair,Unfair,Unfair,Somewhat Unfair,Somewhat Fair
+934,883,30-39,Associate or Diploma,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Very Unfair,Somewhat Fair,Very Fair,Somewhat Unfair,Somewhat Unfair,Very Unfair
+935,654,70 up,High School,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Unfair,Very Unfair,Very Unfair,Very Unfair,Unfair,Fair
+936,1007,18-29,Associate or Diploma,Female,,25000-50000,false,false,false,true,true,,ins,properties first,Somewhat Unfair,Unfair,Unfair,Unfair,Unfair,Unfair,Unfair,Unfair
+937,330,30-39,Bachelor,Female,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Neutral
+938,423,30-39,Graduate,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Neutral,Somewhat Unfair,Neutral,Somewhat Unfair,Somewhat Fair,Very Fair
+939,2754,30-39,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Neutral,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair,Somewhat Fair
+940,1760,30-39,Bachelor,Male,,25000-50000,false,false,false,false,true,,ins,properties first,Very Unfair,Very Unfair,Somewhat Unfair,Fair,Very Unfair,Very Unfair,Very Unfair,Very Fair
+941,671,40-49,Associate or Diploma,Male,,<25000,false,false,false,true,false,,ins,properties first,Unfair,Very Unfair,Unfair,Very Fair,Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair
+942,1204,30-39,Graduate,Female,,<25000,false,true,false,false,false,,ins,fairness first,Fair,Somewhat Unfair,Somewhat Unfair,Very Fair,Very Fair,Somewhat Fair,Fair,Fair
+943,873,30-39,Bachelor,Female,,50000-75000,false,true,false,false,false,,ins,properties first,Somewhat Unfair,Very Unfair,Neutral,Neutral,Somewhat Fair,Neutral,Neutral,Neutral
+944,1210,30-39,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Fair,Very Unfair,Somewhat Fair,Very Fair,Fair,Somewhat Fair,Neutral,Fair
+945,526,50-59,Associate or Diploma,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Unfair,Neutral,Somewhat Unfair,Somewhat Unfair,Neutral,Very Unfair
+946,409,40-49,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Somewhat Unfair
+947,414,30-39,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Unfair,Very Unfair,Very Unfair,Unfair,Unfair,Somewhat Unfair
+948,444,18-29,High School,Male,,<25000,false,false,false,true,false,,ins,properties first,Unfair,Unfair,Neutral,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Neutral,Somewhat Unfair
+949,586,50-59,High School,Female,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Unfair,Very Unfair,Unfair,Very Unfair,Very Unfair,Very Unfair,Somewhat Unfair
+950,472,40-49,Associate or Diploma,Male,,25000-50000,false,false,false,false,true,,ins,fairness first,Neutral,Very Unfair,Somewhat Fair,Somewhat Fair,Unfair,Neutral,Unfair,Somewhat Unfair
+952,326,30-39,Graduate,Male,,75000-100000,false,true,false,false,false,,ins,fairness first,Very Fair,Somewhat Fair,Very Fair,Very Fair,Fair,Very Fair,Very Fair,Fair
+953,567,50-59,High School,Female,,25000-50000,false,false,true,false,false,,ins,fairness first,Unfair,Very Unfair,Very Unfair,Somewhat Fair,Somewhat Fair,Unfair,Somewhat Unfair,Unfair
+954,386,30-39,Bachelor,Male,,>100000,false,true,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Very Unfair,Somewhat Fair,Somewhat Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair
+955,1394,18-29,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Unfair,Somewhat Unfair,Fair,Fair,Somewhat Unfair,Fair,Fair
+956,784,30-39,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Somewhat Fair,Somewhat Fair,Neutral,Fair,Somewhat Fair
+957,622,18-29,Associate or Diploma,Male,,<25000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Very Unfair,Somewhat Fair,Fair,Somewhat Unfair,Very Unfair,Fair
+958,659,50-59,Associate or Diploma,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Unfair,Somewhat Fair,Neutral,Somewhat Unfair,Somewhat Unfair,Neutral
+959,491,30-39,Graduate,Female,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Unfair,Unfair,Somewhat Unfair,Somewhat Unfair,Unfair,Somewhat Fair,Very Unfair
+960,1160,40-49,Bachelor,Male,,>100000,false,false,false,true,false,,ins,properties first,Neutral,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Fair
+961,339,30-39,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,fairness first,Very Fair,Fair,Fair,Neutral,Neutral,Neutral,Fair,Neutral
+962,577,40-49,High School,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Unfair,Very Unfair,Very Unfair,Unfair,Very Unfair,Very Unfair
+963,325,30-39,Associate or Diploma,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Very Fair,,,,Very Fair,,Fair,Somewhat Fair
+964,1931,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Fair,Somewhat Fair,Somewhat Unfair,Very Fair,Somewhat Unfair,Neutral,Very Fair
+965,597,60-69,Associate or Diploma,Female,,<25000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Somewhat Unfair,Unfair,Neutral,Fair,Unfair,Unfair,Somewhat Fair
+967,1559,50-59,Graduate,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Very Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Unfair,Very Unfair,Somewhat Unfair,Unfair
+968,380,60-69,Associate or Diploma,Male,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Somewhat Fair,Fair,Somewhat Fair,Fair,Somewhat Unfair
+969,1421,30-39,Bachelor,Female,,<25000,false,true,false,false,false,,ins,properties first,Very Fair,Fair,Unfair,Somewhat Unfair,Fair,Somewhat Fair,Very Fair,Somewhat Unfair
+970,825,30-39,Bachelor,Female,,50000-75000,false,false,true,false,false,,ins,properties first,Unfair,Very Unfair,Very Unfair,Fair,Fair,Somewhat Unfair,Very Unfair,Somewhat Unfair
+971,307,40-49,Less than high School,Female,,<25000,false,false,false,true,false,,ins,properties first,Very Unfair,Unfair,Very Unfair,Neutral,Very Unfair,Somewhat Fair,Very Unfair,Very Fair
+972,378,50-59,Bachelor,Male,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Very Fair,Somewhat Fair,Neutral,Neutral,Somewhat Unfair,Somewhat Unfair,Fair
+973,493,60-69,Associate or Diploma,Female,,25000-50000,false,true,false,false,false,,ins,fairness first,Fair,Somewhat Fair,Somewhat Fair,Unfair,Unfair,Unfair,Unfair,Fair
+974,381,40-49,Associate or Diploma,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Very Unfair,Somewhat Fair,Fair,Unfair,Somewhat Fair,Very Fair,Very Fair
+975,2557,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Somewhat Unfair,Neutral,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair
+976,430,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Unfair,Unfair,Somewhat Unfair,Unfair,Very Unfair,Unfair,Very Unfair
+977,2029,30-39,Bachelor,Female,,>100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Unfair,Fair,Somewhat Fair,Unfair,Fair,Unfair
+978,3522,18-29,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair
+979,766,40-49,High School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Very Unfair,Somewhat Fair,Somewhat Fair,Very Unfair,Very Unfair,Somewhat Unfair
+980,350,30-39,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Neutral,Somewhat Fair,Somewhat Fair,Somewhat Fair,Neutral,Neutral,Neutral
+981,456,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Very Unfair,Fair,Unfair,Somewhat Unfair,Fair,Somewhat Fair
+982,430,30-39,High School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Somewhat Unfair
+983,617,40-49,High School,Female,,<25000,false,false,false,true,false,,ins,properties first,Very Fair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Very Fair,Somewhat Fair,Somewhat Unfair,Fair
+984,1039,18-29,Associate or Diploma,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Unfair,Unfair,Very Unfair,Unfair,Very Unfair,Unfair,Fair
+985,866,60-69,Bachelor,Female,,25000-50000,false,false,true,false,false,,ins,fairness first,Somewhat Fair,Somewhat Unfair,Unfair,Unfair,Unfair,Unfair,Unfair,Somewhat Fair
+986,1341,40-49,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Somewhat Fair
+987,1151,30-39,High School,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Very Fair,Fair,Unfair,Unfair,Very Fair,Very Unfair,Somewhat Unfair,Very Fair
+988,624,30-39,Associate or Diploma,Female,,25000-50000,false,false,true,false,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Unfair,Unfair,Somewhat Unfair,Unfair,Very Unfair,Somewhat Unfair
+989,691,50-59,High School,Female,,<25000,false,false,false,true,false,,ins,properties first,Fair,Neutral,Very Fair,Very Fair,Unfair,Unfair,Unfair,Very Fair
+990,620,18-29,High School,Male,,25000-50000,false,true,false,true,false,,ins,properties first,Somewhat Fair,Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Unfair,Somewhat Unfair,Somewhat Fair
+991,773,30-39,Bachelor,Male,,<25000,false,true,false,false,false,,ins,fairness first,Very Fair,Somewhat Fair,Somewhat Unfair,Very Fair,Very Fair,Somewhat Unfair,Unfair,Very Fair
+992,1047,60-69,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Somewhat Fair,Somewhat Unfair,Unfair,Unfair,Unfair,Somewhat Fair,Fair
+993,432,30-39,Associate or Diploma,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Fair,Somewhat Fair,Fair,Fair,Somewhat Fair,Somewhat Fair,Somewhat Fair
+994,651,50-59,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Fair,Neutral,Somewhat Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Somewhat Unfair
+995,1527,40-49,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Unfair,Very Unfair,Unfair,Unfair,Very Unfair,Somewhat Fair,Very Unfair,Unfair
+996,877,50-59,Graduate,Male,,>100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,
+997,776,18-29,Bachelor,Male,,75000-100000,false,true,false,false,false,,ins,fairness first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Unfair
+998,694,50-59,Associate or Diploma,Male,,>100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Unfair,Neutral,Neutral,Somewhat Unfair,Neutral,Fair,Fair
+999,421,30-39,Bachelor,Male,,50000-75000,false,true,false,true,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Somewhat Fair,Very Fair,Fair,Very Fair,Fair
+2151,2433,18-29,Bachelor,Female,,<25000,false,false,false,true,false,,ins,fairness first,Very Unfair,Very Unfair,Unfair,Somewhat Fair,Somewhat Fair,Neutral,Unfair,Neutral
+2152,1754,40-49,Bachelor,Female,,25000-50000,false,false,true,false,false,,ins,properties first,Unfair,Somewhat Fair,Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair
+2153,1078,18-29,High School,Male,,25000-50000,false,false,false,false,true,,ins,fairness first,Somewhat Fair,Very Unfair,Somewhat Unfair,Fair,Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair
+2154,2065,18-29,Associate or Diploma,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Neutral,Fair,Fair,Fair,Very Fair,Somewhat Unfair,Fair
+2155,1144,30-39,Graduate,Male,,>100000,false,true,false,false,false,,ins,fairness first,Somewhat Fair,Fair,Unfair,Neutral,Somewhat Fair,Fair,Fair,Very Fair
+2156,1365,30-39,Bachelor,Male,,25000-50000,false,false,false,true,true,,ins,properties first,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair,Unfair,Somewhat Fair
+2157,458,18-29,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Unfair,Fair,Fair,Neutral,Unfair,Fair
+2158,446,30-39,Associate or Diploma,Male,,<25000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Unfair,Unfair,Somewhat Fair,Very Fair,Unfair,Somewhat Unfair,Fair
+2159,1026,50-59,Bachelor,Male,,<25000,false,false,true,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Unfair,Unfair,Somewhat Unfair,Unfair,Unfair,Fair
+2160,3501,30-39,Graduate,Male,,>100000,false,false,true,false,false,,ins,fairness first,Fair,Somewhat Fair,Somewhat Fair,Fair,Fair,Somewhat Fair,Fair,Somewhat Fair
+2161,1224,50-59,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Somewhat Fair,Very Unfair,Somewhat Fair,Unfair,Very Unfair,
+2162,894,18-29,Associate or Diploma,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Unfair,Neutral,Fair,Somewhat Fair,Neutral,Unfair,Somewhat Unfair
+2163,971,18-29,High School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Neutral,Somewhat Unfair,Unfair
+2164,1824,40-49,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Neutral,Fair,Fair,,Fair,Fair,Somewhat Unfair
+2165,2415,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Somewhat Unfair,Very Unfair,Unfair,Unfair,Unfair,Somewhat Unfair,Fair
+2166,1970,40-49,High School,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Neutral,Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Somewhat Unfair
+2167,880,18-29,Less than high School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Unfair,Neutral,Somewhat Unfair,Somewhat Fair,Somewhat Unfair,Fair
+2168,1260,18-29,Bachelor,Female,,25000-50000,false,false,true,false,false,,ins,properties first,Fair,Unfair,Somewhat Fair,Very Fair,Fair,Somewhat Unfair,Very Unfair,Neutral
+2169,1468,18-29,High School,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Unfair,Somewhat Fair,Somewhat Unfair,Neutral,Fair
+2170,2256,50-59,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Fair,Unfair,Unfair,Unfair,Fair,Fair
+2171,408,50-59,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Very Unfair,Unfair,Somewhat Fair,Very Fair,Somewhat Fair,Somewhat Unfair,Very Unfair,Somewhat Unfair
+2172,571,30-39,High School,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Very Unfair,Very Unfair,Somewhat Fair,Somewhat Unfair,Very Unfair,Unfair,Fair
+2173,2198,30-39,Bachelor,Male,,75000-100000,false,true,false,false,false,,ins,fairness first,Very Fair,Very Unfair,Unfair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Fair
+2174,698,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Unfair,Unfair,Unfair,Unfair,Fair,Fair
+2175,458,40-49,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Very Unfair,Somewhat Fair,Very Unfair,Somewhat Fair,Somewhat Fair,Unfair
+2176,590,18-29,High School,Female,,<25000,false,false,false,true,true,,ins,properties first,Unfair,Somewhat Unfair,Unfair,Somewhat Fair,Neutral,Unfair,Somewhat Fair,Very Unfair
+2177,602,40-49,Bachelor,Male,,>100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Very Unfair,Somewhat Fair,Neutral,Unfair,Somewhat Unfair,Unfair
+2178,2071,30-39,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Unfair,Very Unfair,Very Unfair,Somewhat Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+2179,1858,18-29,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Neutral,Unfair,Very Unfair,Neutral,Fair,Neutral,Unfair,Unfair
+2180,2515,40-49,Bachelor,Male,,<25000,false,true,false,false,false,,ins,fairness first,Very Fair,Fair,Very Unfair,Very Fair,Very Fair,Unfair,Very Unfair,Very Fair
+2181,3009,30-39,Bachelor,Male,,25000-50000,false,false,false,false,true,,ins,fairness first,Very Fair,Fair,Very Fair,Very Fair,Fair,Fair,Somewhat Unfair,Somewhat Fair
+2182,361,18-29,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Unfair,Unfair,Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair,Fair
+2183,437,50-59,Graduate,Male,,<25000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Very Fair,Unfair,Unfair,Somewhat Unfair
+2184,637,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Fair,Fair,Very Fair,Fair,Somewhat Fair
+2185,3061,18-29,Bachelor,Male,,<25000,false,true,false,false,false,,ins,properties first,Unfair,Unfair,Unfair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Unfair,Somewhat Fair
+2186,1218,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,properties first,Fair,Very Unfair,Somewhat Fair,Very Fair,Somewhat Unfair,Unfair,Fair,Very Fair
+2187,1106,30-39,Associate or Diploma,Male,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Fair,Neutral,Fair,Very Fair,Somewhat Fair,Somewhat Fair,Fair
+2188,1822,30-39,Bachelor,Male,,50000-75000,false,false,true,false,false,,ins,fairness first,Fair,Very Fair,Very Fair,Fair,Very Fair,Fair,Fair,Very Fair
+2189,1651,18-29,High School,Female,,50000-75000,false,false,false,false,true,,ins,fairness first,Neutral,Unfair,Unfair,Fair,Fair,Unfair,Unfair,Somewhat Unfair
+2190,1321,18-29,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Very Fair,Somewhat Unfair,Unfair,Somewhat Fair,Fair,Somewhat Fair,Fair,Somewhat Fair
+2191,924,40-49,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Very Unfair,Somewhat Unfair,Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Fair
+2192,1147,30-39,Associate or Diploma,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Unfair,Very Fair,Fair,Somewhat Fair,Neutral,Somewhat Fair,Very Fair
+2193,2121,50-59,Associate or Diploma,Female,,50000-75000,true,false,false,false,false,,ins,fairness first,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Neutral,Somewhat Unfair,Somewhat Unfair,Neutral,Neutral
+2194,2310,18-29,High School,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Fair,Neutral,Unfair,Very Fair,Unfair,Fair,Neutral
+2195,381,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Very Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Very Unfair,Very Unfair,Very Fair,Somewhat Fair
+2196,1410,18-29,Bachelor,Male,,<25000,false,true,false,false,false,,ins,fairness first,Very Fair,Very Fair,Very Fair,Very Fair,Fair,Very Fair,Very Fair,Fair
+2197,983,40-49,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Unfair,Fair,Fair,Unfair,Unfair,Somewhat Unfair
+2198,428,50-59,High School,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Unfair,Unfair,Unfair,Unfair,Very Unfair,Unfair,Somewhat Unfair,Very Unfair
+2199,1393,40-49,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Fair,Somewhat Fair,Fair,Neutral,Fair,Neutral,Fair
+2200,772,30-39,Bachelor,Male,,<25000,false,true,false,false,false,,ins,properties first,Neutral,Very Unfair,Somewhat Fair,Somewhat Fair,Fair,Very Unfair,Unfair,Fair
+2201,377,18-29,High School,,na,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Somewhat Fair,Fair,Very Fair,Somewhat Unfair,Somewhat Fair,Somewhat Fair
+2202,1220,30-39,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Unfair,Neutral,Very Unfair,Somewhat Fair,Neutral,Very Unfair,Very Unfair,Very Unfair
+2203,3556,30-39,Graduate,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Very Fair,Fair,Fair,Fair,Very Fair,Very Fair,Fair
+2204,1344,40-49,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Fair,Neutral,Very Fair,Fair,Somewhat Fair,Fair,Neutral
+2205,1525,18-29,Bachelor,Male,,<25000,false,true,false,false,false,,ins,properties first,Fair,Fair,Very Fair,Fair,Very Fair,Very Fair,Very Fair,Very Fair
+2206,327,30-39,Bachelor,Male,,<25000,false,true,false,false,false,,ins,fairness first,Somewhat Fair,Neutral,Neutral,Fair,Somewhat Fair,Fair,Somewhat Fair,Neutral
+2207,1661,30-39,Graduate,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Neutral,Neutral,Neutral,Neutral,Somewhat Fair,Neutral,Neutral,Neutral
+2208,1729,30-39,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Neutral,Unfair,Very Unfair,Fair,Somewhat Unfair,Unfair,Somewhat Unfair,Neutral
+2209,2530,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Fair,Fair,Fair,Fair,Fair,Somewhat Fair,Somewhat Fair
+2210,711,30-39,Bachelor,Male,,>100000,false,false,true,false,false,,ins,fairness first,Neutral,Very Unfair,Somewhat Fair,Somewhat Fair,Fair,Very Fair,Somewhat Fair,Somewhat Unfair
+2211,1178,30-39,Graduate,Female,,25000-50000,false,false,true,false,false,,ins,properties first,Fair,Very Fair,Fair,Very Fair,Fair,Very Fair,Very Fair,Very Fair
+2212,2690,50-59,Graduate,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Fair,Very Fair,Somewhat Fair,Neutral,Very Fair,Somewhat Fair,Fair
+2213,895,30-39,High School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair
+2214,702,30-39,High School,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Unfair,Very Unfair,Somewhat Fair,Fair,Very Fair,Very Unfair,Neutral,Very Unfair
+2215,884,18-29,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Fair,Somewhat Fair,Very Fair,Very Fair,Fair,Somewhat Fair,Somewhat Unfair
+2216,278,30-39,Graduate,Male,,>100000,false,false,false,true,false,,ins,properties first,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Fair
+2217,1922,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,properties first,Somewhat Unfair,Somewhat Unfair,Unfair,Unfair,Somewhat Fair,Unfair,Very Unfair,Unfair
+2218,1541,40-49,Bachelor,Female,,>100000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Very Unfair,Neutral
+2219,581,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Unfair,Unfair,Somewhat Fair,Somewhat Fair,Neutral,Neutral,Somewhat Unfair
+2220,567,60-69,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Very Unfair,Unfair,Unfair,Neutral,Very Unfair,Neutral,Somewhat Fair,Very Unfair
+2221,471,30-39,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Somewhat Unfair,Somewhat Unfair,Neutral,Unfair,Neutral,Somewhat Fair
+2222,2073,18-29,High School,Male,,25000-50000,false,false,false,false,true,,ins,properties first,Somewhat Fair,Very Unfair,Neutral,Somewhat Fair,Fair,Somewhat Unfair,Somewhat Fair,Unfair
+2223,943,18-29,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Neutral,Very Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Unfair,Fair,Somewhat Fair
+2224,609,30-39,Bachelor,Male,,50000-75000,false,false,true,false,false,,ins,fairness first,Fair,Neutral,Fair,Very Fair,Very Fair,Fair,Fair,Fair
+2225,547,40-49,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Very Unfair,Unfair,Fair,Very Fair,Unfair,Very Fair,Very Fair
+2226,658,30-39,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Very Unfair,Unfair,Unfair,Somewhat Unfair,Fair,Fair
+2227,2277,18-29,Associate or Diploma,Male,,75000-100000,false,true,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Fair,Very Fair,Somewhat Unfair,Fair
+2228,1029,18-29,High School,Male,,25000-50000,false,false,false,false,true,,ins,properties first,Very Fair,Very Unfair,Very Unfair,Neutral,Very Fair,Very Unfair,Very Unfair,Very Fair
+2229,2794,30-39,High School,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Unfair,Very Fair,Very Fair,Somewhat Fair,Somewhat Unfair,Unfair
+2230,839,50-59,High School,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Fair,Somewhat Fair,Unfair,Very Unfair,Very Unfair,Fair,Unfair
+2231,789,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Somewhat Fair,Neutral,Very Fair,Neutral,Somewhat Fair
+2232,1178,30-39,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Very Unfair,Unfair,Neutral,Fair,Somewhat Fair,Very Unfair,Neutral
+2233,1519,18-29,Bachelor,Male,,50000-75000,false,true,false,false,false,,ins,fairness first,Fair,Neutral,Neutral,Somewhat Fair,Neutral,Somewhat Fair,Somewhat Fair,Somewhat Fair
+2234,1260,50-59,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Neutral,Fair,Somewhat Unfair,Neutral,Somewhat Fair,Somewhat Fair,Neutral,Somewhat Unfair
+2235,620,30-39,High School,Male,,>100000,false,false,false,true,false,,ins,properties first,Unfair,Very Unfair,Neutral,Fair,Very Fair,Somewhat Unfair,Somewhat Fair,Fair
+2236,1080,30-39,Graduate,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Fair,Fair,Fair,Fair,Fair,Fair,Fair
+2237,1071,18-29,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Neutral,Neutral,Neutral,Somewhat Fair,Neutral,Neutral,Neutral,Fair
+2238,2151,30-39,Graduate,Male,,>100000,false,false,true,false,false,,ins,fairness first,Fair,Fair,Somewhat Fair,Fair,Fair,Fair,Fair,Fair
+2239,1524,30-39,Bachelor,Male,,50000-75000,false,true,false,false,false,,ins,properties first,Somewhat Fair,Very Unfair,Very Unfair,Neutral,Somewhat Unfair,Unfair,Unfair,Somewhat Fair
+2240,546,18-29,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Fair,Unfair,Very Unfair,Fair,Unfair,Somewhat Unfair,Somewhat Unfair
+2241,1359,30-39,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Very Fair,Very Fair,Fair,Somewhat Fair,Fair,Fair,Very Fair
+2242,628,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Very Fair,Very Unfair,Fair,Very Fair,Fair,Fair,Neutral,Fair
+2243,334,50-59,Bachelor,Male,,50000-75000,false,false,false,false,false,white,ins,fairness first,Somewhat Fair,Fair,Somewhat Fair,Fair,Neutral,Fair,Fair,Very Fair
+2244,451,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Somewhat Fair,Somewhat Unfair,Unfair,Fair,Fair,Unfair,Unfair,Very Fair
+2245,697,50-59,High School,Male,,25000-50000,false,false,true,false,false,,ins,fairness first,Somewhat Fair,Very Unfair,Somewhat Fair,Neutral,Unfair,Unfair,Very Unfair,Fair
+2246,1397,40-49,Bachelor,Female,,>100000,false,false,false,true,false,,ins,fairness first,Unfair,Somewhat Unfair,Neutral,Very Unfair,Very Unfair,Very Unfair,Unfair,Very Unfair
+2247,1213,30-39,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Unfair,Somewhat Fair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Somewhat Fair,Unfair
+1557,1905,18-29,Bachelor,Female,,>100000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Very Unfair,Somewhat Fair,Very Fair,Somewhat Fair,Somewhat Fair,Neutral
+1558,1646,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Somewhat Unfair,Unfair,Unfair,Unfair,Unfair,Unfair,Somewhat Fair
+1559,498,40-49,Associate or Diploma,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Somewhat Unfair,Fair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Fair
+1560,1650,30-39,Bachelor,Female,,50000-75000,false,false,true,false,false,,ins,fairness first,Very Fair,Very Unfair,Very Unfair,Somewhat Fair,Fair,Unfair,Unfair,Very Fair
+1561,1019,18-29,Associate or Diploma,Male,,50000-75000,false,false,true,false,false,,ins,fairness first,Somewhat Fair,Very Unfair,Somewhat Fair,Fair,Very Fair,Somewhat Fair,Somewhat Unfair,Very Fair
+1562,2053,40-49,Bachelor,Male,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Unfair,Unfair,Somewhat Unfair,Fair,Fair,Somewhat Fair,Somewhat Fair
+1563,3139,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Fair,Somewhat Fair,Somewhat Unfair
+1564,2237,30-39,Bachelor,Female,,<25000,false,true,false,false,false,,ins,properties first,Somewhat Fair,Neutral,Neutral,Somewhat Unfair,Somewhat Fair,Fair,Neutral,Somewhat Fair
+1565,2899,30-39,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Very Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Very Fair,Fair,Somewhat Fair,Somewhat Fair
+1566,1378,18-29,High School,Female,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Somewhat Unfair,Fair,Very Fair,Somewhat Unfair,Unfair,Unfair
+1567,1020,50-59,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Fair,Very Fair,Fair,Fair,Fair,Very Fair,Fair
+1568,749,30-39,Associate or Diploma,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Neutral,Somewhat Fair,Fair,Somewhat Unfair,Somewhat Unfair,Very Unfair
+1569,1382,30-39,Bachelor,Male,,>100000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Very Unfair,Fair,Fair,Unfair,Unfair,Very Unfair
+1570,736,30-39,High School,Male,,25000-50000,false,false,true,false,false,,ins,properties first,Somewhat Unfair,Very Unfair,Unfair,Unfair,Somewhat Fair,Very Unfair,Somewhat Unfair,Fair
+1571,506,18-29,High School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Fair,Fair,Fair,Fair,Fair,Unfair
+1572,1182,18-29,High School,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Fair,Fair,Fair,Somewhat Fair,Fair,Somewhat Fair,Somewhat Fair
+1573,419,18-29,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Very Unfair,Neutral,Somewhat Fair,Fair,Very Fair,Somewhat Fair,Unfair
+1574,545,30-39,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+1575,1088,30-39,Graduate,Male,,50000-75000,false,false,true,false,false,,ins,fairness first,Somewhat Fair,Very Unfair,Very Unfair,Somewhat Unfair,Very Fair,Very Unfair,Unfair,Fair
+1576,761,30-39,Graduate,Male,,>100000,false,true,false,false,false,,ins,properties first,Neutral,Unfair,Somewhat Fair,Somewhat Fair,Very Fair,Fair,Somewhat Unfair,Somewhat Fair
+1577,2111,30-39,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Neutral,Somewhat Fair,Very Unfair,Unfair,Very Fair,Somewhat Fair
+1578,442,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Very Unfair,Fair,Somewhat Fair,Somewhat Fair,Unfair,Unfair,Somewhat Unfair
+1579,3470,30-39,Bachelor,Female,,25000-50000,false,true,false,false,false,,ins,properties first,Fair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair,Unfair,Unfair,Fair
+1580,805,18-29,High School,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Very Unfair,Somewhat Fair,Very Fair,Somewhat Fair,Very Unfair,Very Unfair,Very Unfair
+1581,3041,40-49,Bachelor,Male,,>100000,false,false,false,true,false,,ins,properties first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+1582,485,30-39,Bachelor,Female,,25000-50000,true,false,false,false,false,,ins,fairness first,Neutral,Unfair,Unfair,Somewhat Unfair,Somewhat Unfair,Very Unfair,Unfair,Neutral
+1583,1371,30-39,High School,Male,,<25000,false,true,false,false,false,,ins,properties first,Fair,Very Unfair,Neutral,Somewhat Fair,,Very Unfair,Unfair,Very Fair
+1584,1822,18-29,Graduate,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Very Fair,Very Fair,Very Fair,Very Fair,Very Fair,Very Fair,Very Fair,Very Fair
+1585,1606,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Very Fair,Fair,Very Fair,Very Fair,Very Fair,Very Fair,Somewhat Fair,Fair
+1586,929,30-39,High School,Male,,<25000,false,false,false,true,false,,ins,properties first,Very Fair,Fair,Neutral,Neutral,Neutral,Fair,Fair,Very Fair
+1587,2040,18-29,Bachelor,Male,,<25000,false,true,false,false,false,,ins,fairness first,Fair,Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair
+1588,2466,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Neutral,Neutral,Neutral,Fair,Neutral,Fair,Neutral,Somewhat Unfair
+1589,946,30-39,Bachelor,Male,,50000-75000,false,false,false,false,false,WHITE,ins,fairness first,Fair,Somewhat Fair,Fair,Very Fair,Fair,Fair,Very Fair,Somewhat Fair
+1590,1303,18-29,Associate or Diploma,Male,,<25000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Neutral,Somewhat Fair,Fair,Neutral,Neutral,Unfair
+1591,2801,40-49,Bachelor,Female,,>100000,false,false,false,true,false,,ins,fairness first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+1592,2442,30-39,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Unfair,Neutral,Fair,Fair,Neutral,Somewhat Fair,Somewhat Unfair
+1593,339,18-29,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Fair,Somewhat Fair,Unfair,Unfair,Somewhat Unfair,Unfair,Unfair,Very Fair
+1594,1973,30-39,Graduate,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Neutral,Fair,Somewhat Unfair,Neutral,Neutral,Neutral,Somewhat Unfair,Neutral
+1595,2566,60-69,,Female,,25000-50000,false,false,true,false,false,,ins,fairness first,Somewhat Fair,Unfair,Fair,Unfair,Unfair,Unfair,Unfair,Somewhat Fair
+1596,1765,30-39,Associate or Diploma,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Very Unfair,Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Unfair,Unfair
+1597,2539,30-39,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Unfair,Neutral,Unfair
+1598,1181,40-49,Associate or Diploma,Female,,>100000,false,false,false,true,false,,ins,fairness first,Fair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Fair
+1599,1306,30-39,Associate or Diploma,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Very Fair,Very Unfair,Fair,Very Unfair,Fair,Neutral,Unfair,Neutral
+1600,1825,30-39,Bachelor,Male,,75000-100000,false,false,true,false,false,,ins,fairness first,Fair,Very Fair,Somewhat Fair,Very Fair,Very Fair,Fair,Somewhat Unfair,Neutral
+1601,457,30-39,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Somewhat Unfair,Fair,Very Unfair,Somewhat Fair,Very Unfair,Unfair,Fair
+1602,555,50-59,High School,Female,,>100000,false,false,false,true,false,,ins,properties first,Somewhat Unfair,Very Unfair,Very Unfair,Unfair,Very Unfair,Very Unfair,Unfair,Somewhat Unfair
+1603,1695,30-39,Bachelor,Female,,50000-75000,false,false,true,false,false,,ins,properties first,Unfair,Very Unfair,Very Unfair,Fair,Neutral,Very Unfair,Very Unfair,Very Unfair
+1604,1851,30-39,Associate or Diploma,Female,,50000-75000,false,false,true,false,false,,ins,properties first,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Neutral,Neutral,Neutral,Neutral,Unfair
+1605,2015,40-49,Graduate,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Fair,Neutral,Unfair,Neutral,Very Unfair,Very Unfair,Unfair,Fair
+1606,847,40-49,Associate or Diploma,Female,,50000-75000,false,false,false,true,true,,ins,fairness first,Somewhat Fair,Very Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Very Unfair,Neutral,Somewhat Fair
+1607,1873,18-29,Associate or Diploma,Male,,<25000,false,true,false,false,false,,ins,fairness first,Fair,Somewhat Fair,Fair,Fair,Very Fair,Very Fair,Somewhat Fair,Somewhat Fair
+1608,1385,40-49,High School,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Very Unfair,Very Unfair,Somewhat Fair,Unfair,Unfair,Very Unfair,Unfair
+1609,2301,50-59,Graduate,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Very Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Very Unfair,Unfair
+1610,540,50-59,High School,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Unfair,Unfair,Very Unfair,Unfair,Fair,Unfair
+1611,698,30-39,Less than high School,Male,,<25000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Fair,Very Fair,Fair,Very Unfair,Somewhat Unfair,Neutral
+1612,1882,30-39,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Fair,Fair,Neutral,Very Unfair,Somewhat Fair,Unfair,Fair
+1613,792,30-39,Associate or Diploma,Male,,25000-50000,false,true,false,false,false,,ins,properties first,Very Fair,Fair,Very Unfair,Unfair,Unfair,Very Unfair,Very Unfair,Very Fair
+1614,1809,30-39,Bachelor,Male,,75000-100000,false,true,false,false,false,,ins,fairness first,Fair,Very Unfair,Very Unfair,Unfair,Somewhat Fair,Very Unfair,Somewhat Fair,Somewhat Fair
+1615,2043,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,properties first,Very Fair,Very Fair,Somewhat Fair,Fair,Fair,Fair,Somewhat Fair,Very Fair
+1616,479,30-39,Bachelor,Male,,75000-100000,false,false,false,false,false,native american,ins,fairness first,Somewhat Unfair,Fair,Somewhat Fair,Somewhat Fair,Neutral,Neutral,Fair,Very Unfair
+1617,472,60-69,High School,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Unfair,Unfair,Somewhat Fair,Fair,Unfair,Unfair,Fair
+1618,1883,40-49,Bachelor,Male,,<25000,false,true,false,false,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Fair,Somewhat Fair,Fair,Very Fair,Fair,Very Fair
+1619,1921,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Very Fair,Somewhat Fair,Unfair,Fair,Very Fair,Somewhat Fair,Somewhat Fair,Somewhat Fair
+1620,300,60-69,Bachelor,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Very Fair,Fair,Fair,Very Fair,Somewhat Fair,Very Fair,Somewhat Fair,Fair
+1621,2238,30-39,Bachelor,Male,,25000-50000,false,true,false,true,false,,ins,properties first,Somewhat Fair,Somewhat Fair,Neutral,Very Fair,Somewhat Fair,Fair,Somewhat Fair,Fair
+1622,1421,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Fair,Fair,Somewhat Fair,Unfair,Unfair,Neutral,Very Fair
+1623,1229,30-39,High School,Male,,50000-75000,false,false,false,true,false,,ins,properties first,Fair,Fair,Neutral,Somewhat Fair,Unfair,Neutral,Unfair,Fair
+1624,683,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Unfair,Somewhat Fair,Somewhat Unfair,Neutral,Very Unfair,Somewhat Fair,Very Unfair
+1625,2211,18-29,Bachelor,Male,,>100000,false,true,false,false,false,,ins,fairness first,Fair,Unfair,Neutral,Fair,Fair,Unfair,Somewhat Fair,Unfair
+1626,381,18-29,Associate or Diploma,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Somewhat Fair,Unfair,Somewhat Fair,Somewhat Fair,Unfair,Somewhat Fair,Somewhat Fair
+1627,932,40-49,Bachelor,Male,,50000-75000,false,false,false,false,true,,ins,fairness first,Fair,Unfair,Somewhat Unfair,Neutral,Somewhat Unfair,Somewhat Unfair,Neutral,Somewhat Fair
+1628,645,18-29,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Very Fair,Unfair,Somewhat Unfair,Somewhat Fair,Fair,Fair,Somewhat Unfair,Very Fair
+1629,851,18-29,Bachelor,Male,,25000-50000,false,true,false,false,false,,ins,fairness first,Somewhat Unfair,Very Fair,Somewhat Unfair,Unfair,Very Fair,Fair,Very Fair,Very Unfair
+1630,295,30-39,Bachelor,Male,,75000-100000,true,true,true,true,true,,ins,properties first,Somewhat Fair,Very Unfair,Neutral,Somewhat Fair,Unfair,Somewhat Fair,Neutral,Neutral
+1631,2451,40-49,Associate or Diploma,Female,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Neutral,Neutral,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Unfair
+1632,1420,40-49,Associate or Diploma,Female,,>100000,false,false,false,true,false,,ins,fairness first,Very Unfair,Unfair,Very Fair,Fair,Neutral,Unfair,Neutral,Fair
+1633,2338,30-39,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Very Unfair,Neutral,Somewhat Unfair,Somewhat Fair,Very Unfair,Somewhat Fair,Unfair
+1634,2712,18-29,Bachelor,Male,,25000-50000,false,false,false,true,false,,ins,properties first,Somewhat Fair,Fair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair
+1635,2527,60-69,Associate or Diploma,Female,,<25000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Somewhat Fair,Very Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Very Unfair
+1636,798,18-29,High School,Male,,25000-50000,false,false,false,true,false,,ins,fairness first,Fair,Neutral,Unfair,Somewhat Unfair,Unfair,Somewhat Unfair,Unfair,Fair
+1637,1200,60-69,Bachelor,Female,,25000-50000,false,false,false,false,true,,ins,properties first,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+1638,496,50-59,Bachelor,Male,,>100000,false,false,false,true,true,,ins,fairness first,Somewhat Fair,Very Unfair,Very Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Fair
+1639,776,18-29,Graduate,Female,,50000-75000,false,true,false,false,false,,ins,fairness first,Neutral,Very Unfair,Somewhat Unfair,Fair,Fair,Neutral,Somewhat Unfair,Unfair
+1640,1486,30-39,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,properties first,Unfair,Fair,Somewhat Fair,Neutral,Neutral,Fair,Neutral,Somewhat Unfair
+1641,667,18-29,Graduate,Male,,<25000,false,true,false,true,false,,ins,fairness first,Very Fair,Somewhat Fair,Fair,Fair,Very Fair,Fair,Fair,Somewhat Fair
+1642,675,40-49,Bachelor,Female,,75000-100000,false,false,false,true,false,,ins,fairness first,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair,Very Unfair
+1643,1764,30-39,Associate or Diploma,Male,,25000-50000,false,false,false,true,true,,ins,fairness first,Somewhat Unfair,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Somewhat Fair,Fair,Neutral
+1644,454,18-29,Graduate,Male,,75000-100000,false,false,false,true,false,,ins,fairness first,Neutral,Neutral,Neutral,Neutral,Somewhat Unfair,Somewhat Fair,Neutral,Somewhat Unfair
+1645,2000,60-69,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Fair,Somewhat Unfair,Neutral,Fair,Somewhat Fair,Neutral,Somewhat Fair
+1646,647,30-39,Bachelor,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Very Unfair,Unfair,Somewhat Fair,Neutral,Unfair,Somewhat Fair,Fair
+1647,481,30-39,Graduate,Female,,>100000,false,false,false,true,false,,ins,fairness first,Somewhat Unfair,Unfair,Very Unfair,Neutral,Somewhat Unfair,Somewhat Fair,Somewhat Fair,Somewhat Fair
+1648,781,30-39,Bachelor,Male,,75000-100000,true,false,false,false,false,,ins,fairness first,Somewhat Fair,Neutral,Somewhat Fair,Somewhat Fair,Fair,Unfair,Unfair,Somewhat Fair
+1649,801,30-39,Graduate,Male,,<25000,false,true,false,false,false,,ins,properties first,Very Fair,Somewhat Fair,Very Fair,Somewhat Unfair,Fair,Unfair,Somewhat Fair,Very Fair
+1650,2225,18-29,Bachelor,Male,,75000-100000,false,false,false,true,false,,ins,properties first,Fair,Fair,Unfair,Neutral,Neutral,Unfair,Unfair,Fair
+1651,665,40-49,Graduate,Male,,50000-75000,false,false,false,true,false,,ins,fairness first,Somewhat Fair,Unfair,Somewhat Fair,Very Fair,Very Fair,Somewhat Fair,Somewhat Fair,Very Fair
+1652,1468,40-49,Bachelor,Female,,50000-75000,false,false,false,true,false,,ins,fairness first,Fair,Unfair,Unfair,Somewhat Unfair,Fair,Fair,Fair,Unfair

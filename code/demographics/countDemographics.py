@@ -6,13 +6,13 @@ import csv
 
 def count(domain,feats):
     # Open the files to get the data
-    file = open("../data/MainSurvey"+domain+".csv",'r')
+    file = open("../../data/MainSurvey"+domain+".csv",'r')
     secdata = list(csv.reader(file))
     file.close()
-    file = open("../data/Accuracy"+domain+".csv",'r')
+    file = open("../../data/Accuracy"+domain+".csv",'r')
     accdata = list(csv.reader(file))
     file.close()
-    file = open("../data/NoRelevance"+domain+".csv",'r')
+    file = open("../../data/NoRelevance"+domain+".csv",'r')
     nordata = list(csv.reader(file))
     file.close()
 
@@ -99,7 +99,7 @@ for col in range(1,len(rows[0])):
 
 rows.append(row)
 
-file = open("../results/DemoCounts.csv",'w')
+file = open("../../results/DemoCounts.csv",'w')
 write = csv.writer(file)
 write.writerows(rows)
 file.close()

@@ -10,15 +10,18 @@ replaced/predictAll.py
 replaced/predictAllCombs.py
 removed/predictAll.py
 removed/predictAllCombs.py
+demographics/countDemographics.py
+demographics/combineResults.py
+demographics/demoFairCIs.py
+demographics/demoPropsCIs.py
 makeWeightsFigure.py
 makeAccuraciesFigure.py
-countDemographics.py
+
 
 Code Descriptions:
 
 makeWeightsFigure.py - makes Figure 1
 makeAccuraciesFigure.py - makes Figure 2
-countDemographics.py - counts the number of respondents from each questioned demographic group
 
 pilots:
 Performs all pilot study analyses
@@ -51,4 +54,10 @@ predictorWithinDomain.py - performs 1000 50/50 train test splits on a particular
 predictorCrossDomains.py - performs one test by training in one domain and testing in another using removed survey data
 predictAll.py - calls all 'predictor' files and makes a table with all tests using all eight properties (using removed survey data)
 predictAllCombs - calls all 'predictor' files and makes a table with tests using multiple combinations of properties (using removed survey data)
+
+demographics:
+countDemographics.py - counts the number of respondents from each questioned demographic group
+combineResults.py - combines results from all three survey styles into files for demographic analyses
+demoFairCIs.py - obtains 95% confidence intervals for the weights of the demographic information when used to predict fairness judgements
+demoPropsCIs.py - obtains 95% confidence intervals for the weights of the demographic information when used to predict property assignments
 

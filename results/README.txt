@@ -26,4 +26,8 @@ Table1.csv - Presents the accuracies and errors for the pooled, within domain, a
 Figure1.pdf - Presents and compares the weights for each property by domain for every survey batch.
 Figure2.pdf - Presents and compares accuracy levels achieved by various predictors.
 
+Demographic results:
 DemoCounts - Presents the number of respondents from each questioned demographic group (by assigned domain) that answered our three primary surveys.
+DemoFairCIs - Presents the 95% confidence intervals for the weights of the demographic information when used to predict fairness judgements.
+DemoPropsCIs - Presents the 95% confidence intervals for the weights of the demographic information when used to predict property assignments.
+

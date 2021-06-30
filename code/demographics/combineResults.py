@@ -37,7 +37,7 @@ def combineFair(domain,feats):
     
     data = nsecdata+naccdata[1:]+nnordata[1:]
 
-    file = open("CombinedFair"+domain+".csv",'w')
+    file = open("modifiedData/CombinedFair"+domain+".csv",'w')
     write = csv.writer(file)
     write.writerows(data)
     file.close()
@@ -87,7 +87,7 @@ def combineProps(domain,feats):
     
     data = nsecdata+naccdata[1:]+nnordata[1:]
 
-    file = open("CombinedProps"+domain+".csv",'w')
+    file = open("modifiedData/CombinedProps"+domain+".csv",'w')
     write = csv.writer(file)
     write.writerows(data)
     file.close()

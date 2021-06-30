@@ -36,7 +36,7 @@ def trainandpredict(X,Y):
         return [0,0,0,0,0,0,0,0,0]
 
 def load(domain):
-    file = open("CombinedProps"+domain+".csv",'r')
+    file = open("modifiedData/CombinedProps"+domain+".csv",'r')
     data = list(csv.reader(file))
     file.close()
 
@@ -119,7 +119,7 @@ def load(domain):
 
 # Make Table
 toprow = [["Domain","Feature and Property","Age","","","Education","","","Gender","","","Income","","","Aboriginal","","","Asian","","","Black","","","Caucasian","","","Hispanic","",""]]
-allrows=toprow+load("Rec")+load("CPS")+load("Hos")+load("Ins")+load("Loan")+load("Unem")
+allrows=toprow+load("Bail")+load("CPS")+load("Hos")+load("Ins")+load("Loan")+load("Unem")
 
 file = open("../../results/DemoPropsCIs.csv",'w')
 write = csv.writer(file)

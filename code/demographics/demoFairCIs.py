@@ -36,7 +36,7 @@ def trainandpredict(X,Y):
         return [0,0,0,0,0,0,0,0,0]
 
 def load(domain):
-    file = open("CombinedFair"+domain+".csv",'r')
+    file = open("modifiedData/CombinedFair"+domain+".csv",'r')
     data = list(csv.reader(file))
     file.close()
 
